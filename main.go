@@ -21,4 +21,7 @@ func main() {
 	//Деление
 	quotient := a / b
 	fmt.Println("Частное:", quotient)
+
+	sum1 := a + b
+	fmt.Println("Сумма:", sum1)
 }
